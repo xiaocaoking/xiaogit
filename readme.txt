@@ -1,2 +1,2 @@
-Git is a distributed version control system.hello.wrold
+Git is a distributed version control system.
 Git is free software.	
